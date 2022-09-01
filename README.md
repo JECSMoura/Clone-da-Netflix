@@ -1,9 +1,10 @@
+
 # <h1>Clone-da-Netflix</h1>
 
 <p>Project developed during a bootcamp by <a>Rodolfo Mori</a> called "5D Mission", where I discovered my passion for technology and since then I have been developing my skills for improvement!</p>
-
+ Deploy:https://netifixmissao.netlify.app/
+ 
 <br>
-
  <h2>💻 Technologies</h3> 
  
  ● HTML
