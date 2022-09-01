@@ -1,6 +1,10 @@
 
 # <h1>Clone-da-Netflix</h1>
 
+<div aling=c"center">
+<img height="300em" height="300em" src="https://www.opovo.com.br/_midias/jpg/2022/03/10/818x460/1_dorama_onde_assistir_plataformas_de_streaming-18283338.jpg">
+</div>
+
 <p>Project developed during a bootcamp by <a>Rodolfo Mori</a> called "5D Mission", where I discovered my passion for technology and since then I have been developing my skills for improvement!</p>
  Deploy:https://netifixmissao.netlify.app/
  
