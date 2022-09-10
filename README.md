@@ -1,7 +1,7 @@
 
 # <h1>Clone-da-Netflix</h1>
 
-<div aling=c"center">
+<div aling="center">
 <img height="300em" height="300em" src="https://www.opovo.com.br/_midias/jpg/2022/03/10/818x460/1_dorama_onde_assistir_plataformas_de_streaming-18283338.jpg">
 </div>
 
